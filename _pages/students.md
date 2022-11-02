@@ -18,7 +18,7 @@ nav: true
   - Title: "*__Indoor navigation with Kalman filtering and anti-development__*"
   - co-supervisor: Christophe Prieur (Gipsa-lab, Grenoble)
 
-__
+___
 + __Cyril CANO__ [2019-2022]
   - Subject: "*__Mathematical tools and signal processing algorithms for the study of gravitational waves polarisation__*"
   - co-supervisor: Éric Chassande-Mottin (APC, Paris)
