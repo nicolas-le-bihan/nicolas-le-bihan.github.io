@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-description: <a href="http://www.cnrs.fr">CNRS</a> - <a href="http://www.gipsa-lab.grenoble-inp.fr/">Gipsa-lab</a>
+description: 
 
 profile:
   align: right
-  image: me2.jpg
+  image: me3.jpg
   address: >
     <p>Gipsa-Lab</p>
     <p style="font-size:13px">Pôle GAIA</p>
