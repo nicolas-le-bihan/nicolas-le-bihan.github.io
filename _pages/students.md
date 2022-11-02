@@ -2,7 +2,7 @@
 layout: page
 permalink: /students/
 title: Students
-description: Current and former PhD students I have (so-)supervised
+description: Current and former PhD students I have (co-)supervised
 nav: true
 ---
 
@@ -11,15 +11,16 @@ nav: true
 [//]: Organize your courses by years, topics, or universities, however you like!
 
 + __Sébastien JOURNÉ__ [2021-]
-  - Subject: ""
+  - Subject: "*__Low rank models for polarized bivariate signals__*"
   - co-supervisors: Julien Flamant (CRAN, Nancy) and Florent Chatelain (Gipsa-lab, Grenoble)
 
 + __Roza CHERFI__ [2019-]
-  - Subject: ""
+  - Title: "*__Indoor navigation with Kalman filtering and anti-development__*"
   - co-supervisor: Christophe Prieur (Gipsa-lab, Grenoble)
 
-+ __Cyril CANO__ [2019-]
-  - Subject: ""
+__
++ __Cyril CANO__ [2019-2022]
+  - Subject: "*__Mathematical tools and signal processing algorithms for the study of gravitational waves polarisation__*"
   - co-supervisor: Éric Chassande-Mottin (APC, Paris)
 
 ___
