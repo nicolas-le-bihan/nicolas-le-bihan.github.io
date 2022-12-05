@@ -232,7 +232,7 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 scholar:
 
   last_name: [Le Bihan]
-  first_name: [Nicolas]
+  first_name: [N.]
 
   style: apa
   locale: en
