@@ -2,14 +2,13 @@
 layout: about
 title: about
 permalink: /
-description: 
+subtitle: <a href='http://www.cnrs.fr'>CNRS</a>
 
 profile:
   align: right
   image: me3.jpg
   address: >
 	<p>Gipsa-Lab</p>
-	<p style="font-size:13px">Pôle GAIA</p>
 	<p style="font-size:13px">11 Rue des Mathématiques</p>
 	<p style="font-size:13px">38402 St Martin d'Hères</p>
 	<p style="font-size:13px">France</p>
