@@ -7,12 +7,12 @@ description:
 profile:
   align: right
   image: me3.jpg
-  address: >
-    <p>Gipsa-Lab</p>
-    <p style="font-size:13px">Pôle GAIA</p>
-    <p style="font-size:13px">11 Rue des Mathématiques</p>
-		<p style="font-size:13px">38402 St Martin d'Hères</p>
-    <p style="font-size:13px">France</p>
+  address: 
+	<p>Gipsa-Lab</p>
+	<p style="font-size:13px">Pôle GAIA</p>
+	<p style="font-size:13px">11 Rue des Mathématiques</p>
+	<p style="font-size:13px">38402 St Martin d'Hères</p>
+	<p style="font-size:13px">France</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
