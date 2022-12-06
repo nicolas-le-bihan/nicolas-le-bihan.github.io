@@ -7,7 +7,7 @@ description:
 profile:
   align: right
   image: me3.jpg
-  address: 
+  address: >
 	<p>Gipsa-Lab</p>
 	<p style="font-size:13px">Pôle GAIA</p>
 	<p style="font-size:13px">11 Rue des Mathématiques</p>
@@ -24,7 +24,7 @@ I am currently a senior research fellow with the <a href="http://www.cnrs.fr">CN
 
 From 2013 to 2015, I was a visiting research fellow at the University of Melbourne, Australia. My research in Melbourne was supported by a Marie Curie International Outgoing Fellowship (IOF) from the European Union and the CNRS.
 
-My research interests include: bivariate signal processing, statistics on groups and manifolds, polarized time series analysis and their application in gravitational wave astronomy.  
+My research interests include: bivariate signal processing, statistics on groups and manifolds, polarized time series analysis and their application in gravitational wave astronomy.
 
 [//]: Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
