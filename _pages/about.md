@@ -11,6 +11,7 @@ profile:
     <p>Gipsa-Lab</p>
     <p style="font-size:13px">Pôle GAIA</p>
     <p style="font-size:13px">11 Rue des Mathématiques</p>
+	<p style="font-size:13px">Domaine Universitaire</p>
     <p style="font-size:13px">38402 St Martin d'Hères</p>
     <p style="font-size:13px">France</p>
 
