@@ -14,6 +14,10 @@
   - firstname: ["E.","Eric"]
     url: https://apc.u-paris.fr/~ecm/
 
+"Bonnel":
+  - firstname: ["J.","Julien"]
+    url: https://www2.whoi.edu/staff/jbonnel/
+    
 "Adams":
   - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
     url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
