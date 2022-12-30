@@ -10,6 +10,10 @@
   - firstname: ["R.","Romain"]
     url: https://polaris.imag.fr/romain.couillet/index.html
 
+"Chassande-Mottin":
+  - firstname: ["E.","Eric"]
+    url: https://apc.u-paris.fr/~ecm/
+
 "Adams":
   - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
     url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
