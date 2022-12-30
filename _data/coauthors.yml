@@ -1,6 +1,15 @@
 "Flamant":
   - firstname: ["J.","Julien"]
     url: https://jflamant.github.io/
+
+"Said":
+  - firstname: ["S.","Salem"]
+    url: https://salemsaid.wordpress.com/
+
+"Couillet":
+  - firstname: ["R.","Romain"]
+    url: https://polaris.imag.fr/romain.couillet/index.html
+
 "Adams":
   - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
     url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
