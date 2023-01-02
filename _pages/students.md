@@ -14,9 +14,11 @@ nav: true
   - Subject: "*__Low rank models for polarized bivariate signals__*"
   - co-supervisors: Julien Flamant (CRAN, Nancy) and Florent Chatelain (Gipsa-lab, Grenoble)
 
+___
 + __Roza CHERFI__ [2019-]
   - Title: "*__Indoor navigation with Kalman filtering and anti-development__*"
   - co-supervisor: Christophe Prieur (Gipsa-lab, Grenoble)
+  - Defended: 13th of December 2022
 
 ___
 + __Cyril CANO__ [2019-2022]
