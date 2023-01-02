@@ -21,3 +21,11 @@
 "Chainais":
   - firstname: ["P.", "Pierre"]
     url: http://pierrechainais.ec-lille.fr/
+
+"Prieur":
+  - firstname: ["C.", "Christophe"]
+    url: http://www.gipsa-lab.fr/~christophe.prieur/
+
+"Manton":
+  - firstname: ["J.H.", "Jonathan H."]
+    url: https://people.eng.unimelb.edu.au/jmanton/

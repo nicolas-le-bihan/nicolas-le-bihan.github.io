@@ -15,7 +15,7 @@ nav: true
   - co-supervisors: Julien Flamant (CRAN, Nancy) and Florent Chatelain (Gipsa-lab, Grenoble)
 
 ___
-+ __Roza CHERFI__ [2019-]
++ __Roza CHERFI__ [2019-2022]
   - Title: "*__Indoor navigation with Kalman filtering and anti-development__*"
   - co-supervisor: Christophe Prieur (Gipsa-lab, Grenoble)
   - Defended: 13th of December 2022
