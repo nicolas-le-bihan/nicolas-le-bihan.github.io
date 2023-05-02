@@ -9,7 +9,7 @@ profile:
   image: me3.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Su Nuraxi, 2022</p>
+    <p>Su Nuraxi, July 2022</p>
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
