@@ -12,7 +12,6 @@ nav: true
 {% for y in page.years %}
   <h2 class="year">{{y}}</h2>
   {% bibliography -f papers -q @*[year={{y}}]* %}
-  <span class="__dimensions_badge_embed__" data-doi=doi data-style="large_rectangle"></span>
 {% endfor %}
 
 </div>

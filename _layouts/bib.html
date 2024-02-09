@@ -201,5 +201,9 @@
             {% highlight bibtex %}{{ entry.bibtex | hideCustomBibtex }}{% endhighlight %}
           </div>
           {%- endif %}
+
+	  {% if entry.doi -%}
+	  <span class="__dimensions_badge_embed__" data-doi=entry.doi data-style="large_rectangle"></span>
+	  {%- endif %}
         </div>
       </div>
