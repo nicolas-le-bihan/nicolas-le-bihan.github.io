@@ -201,9 +201,9 @@
             {% highlight bibtex %}{{ entry.bibtex | hideCustomBibtex }}{% endhighlight %}
           </div>
           {%- endif %}
-
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 	  {% if entry.doi -%}
-	  <span class="__dimensions_badge_embed__" data-doi=entry.doi data-style="large_rectangle"></span>
+	  <span class="__dimensions_badge_embed__" data-doi="{{entry.doi}}" data-style="large_rectangle"></span>
 	  {%- endif %}
         </div>
       </div>
