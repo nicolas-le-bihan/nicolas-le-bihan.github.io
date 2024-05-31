@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /students/
-title: Students
-description: Current and former PhD students I have (co-)supervised
+title: Supervision
+description: Current and former PhD students and Post-doctoral researchers I have (co-)supervised
 nav: true
 ---
 
