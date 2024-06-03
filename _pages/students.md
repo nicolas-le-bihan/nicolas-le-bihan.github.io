@@ -10,9 +10,9 @@ nav: true
 
 [//]: Organize your courses by years, topics, or universities, however you like!
 
-+ __Sébastien JOURNÉ__ [2021-]
-  - Subject: "*__Low rank models for polarized bivariate signals__*"
-  - co-supervisors: Julien Flamant (CRAN, Nancy) and Florent Chatelain (Gipsa-lab, Grenoble)
++ __Jalal JOUIDI__ [2023-]
+  - Subject: "*__Caractérisation topologique et physique de membranes par analyse vibratoire__*"
+  - co-supervisors: Pierre Granjon (Gipsa-lab, Grenoble) and Florent Chatelain (Gipsa-lab, Grenoble)
 
 ___
 + __Roza CHERFI__ [2019-2022]
