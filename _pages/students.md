@@ -10,9 +10,22 @@ nav: true
 
 [//]: Organize your courses by years, topics, or universities, however you like!
 
++ __Philippe FLORES__ [2024-]
+  - Subject: "*__Non-linear and geometrical models for bivariate signal: application to polarized gravitational wave analysis__*"
+  - co-supervisors: Pierre-Olivier Amblard (Gipsa-lab, Grenoble) and Olivier Michel (Gipsa-lab, Grenoble)
+
 + __Jalal JOUIDI__ [2023-]
-  - Subject: "*__Caractérisation topologique et physique de membranes par analyse vibratoire__*"
+  - Subject: "*__Physical and topological characterization of membranes using vibration analysis__*"
   - co-supervisors: Pierre Granjon (Gipsa-lab, Grenoble) and Florent Chatelain (Gipsa-lab, Grenoble)
+
++ __Nils LAURENT__ [2022-2023]
+  - Subject: "*__Geometrical machine learning: new approaches beyond Riemannian
+geometry – application to the stiefel manifold__*"
+  - co-supervisors: Florent Bouchard (L2S, Paris Saclay) and Salem Said (LJK, Grenoble)
+
++ __Sébastien JOURNÉ__ [2021-2023]
+  - Subject: "*__Statistical and geometrical signal processing for high-dimensional complex-valued time series__*"
+  - co-supervisors: Julien Flamant (CRAN, Nancy) and Florent Chatelain (Gipsa-lab, Grenoble)
 
 ___
 + __Roza CHERFI__ [2019-2022]
