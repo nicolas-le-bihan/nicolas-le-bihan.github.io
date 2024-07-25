@@ -14,7 +14,7 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-<p style="font-family: 'Courier Prime';font-size: 20px"> "Knowledge isn't free. You have to pay attention", R.P. Feynman.</p>
+<p style="font-family: 'Courier Prime';font-size: 16px"> "Knowledge isn't free. You have to pay attention", R.P. Feynman.</p>
 <p> Welcome ! </p>
 I am currently a senior research fellow with the <a href="http://www.cnrs.fr">CNRS</a> at <a href="http://www.gipsa-lab.grenoble-inp.fr/">Gipsa-lab</a> in Grenoble, France. Since 2020, I am in the <a href="https://www.gipsa-lab.grenoble-inp.fr/pole/pole-geometrie-apprentissage-information-et-algorithmes-gaia">GAIA</a> team at Gipsa-Lab.
 
