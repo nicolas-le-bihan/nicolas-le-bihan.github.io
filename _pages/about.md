@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
-<a href='https://www.cnrs.fr'>CNRS,</a> <a href='https://www.gipsa-lab.grenoble-inp.fr/pole/pole-geometrie-apprentissage-information-et-algorithmes-gaia'>GAIA</a> research team, <a href='https://www.gipsa-lab.grenoble-inp.fr/'>Gipsa-lab</a>, Grenoble.
+subtitle: <a href='https://www.cnrs.fr'>CNRS,</a> <a href='https://www.gipsa-lab.grenoble-inp.fr/pole/pole-geometrie-apprentissage-information-et-algorithmes-gaia'>GAIA</a> research team, <a href='https://www.gipsa-lab.grenoble-inp.fr/'>Gipsa-lab</a>, Grenoble.
 
 profile:
   align: right
@@ -25,6 +24,8 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+
+I am currently a senior research fellow with the <a href="http://www.cnrs.fr">CNRS</a> at <a href="http://www.gipsa-lab.grenoble-inp.fr/">Gipsa-lab</a> in Grenoble, France. Since 2020, I am in the <a href="https://www.gipsa-lab.grenoble-inp.fr/pole/pole-geometrie-apprentissage-information-et-algorithmes-gaia">GAIA</a> team at Gipsa-Lab.
 
 From 2013 to 2015, I was a visiting research fellow at the University of Melbourne, Australia. My research in Melbourne was supported by a Marie Curie International Outgoing Fellowship (IOF) from the European Union and the CNRS.
 
