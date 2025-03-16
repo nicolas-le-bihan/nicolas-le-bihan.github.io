@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.cnrs.fr'>CNRS,</a> <a href='https://www.gipsa-lab.grenoble-inp.fr/pole/pole-geometrie-apprentissage-information-et-algorithmes-gaia'>GAIA</a> research team, <a href='https://www.gipsa-lab.grenoble-inp.fr/'>Gipsa-lab</a>, Grenoble.
+subtitle: <a href='https://www.cnrs.fr'>CNRS,</a> <a href='https://www.gipsa-lab.grenoble-inp.fr/pole/gaia'>GAIA</a> research team, <a href='https://www.gipsa-lab.grenoble-inp.fr/'>Gipsa-lab</a>, Grenoble.
 
 profile:
   align: right
