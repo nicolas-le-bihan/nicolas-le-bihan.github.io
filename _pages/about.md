@@ -10,19 +10,9 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
   <p>Su Nuraxi, 2022</p>
+news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
-
-
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
 ---
 
 I am currently a senior research fellow with the <a href="http://www.cnrs.fr">CNRS</a> at <a href="http://www.gipsa-lab.grenoble-inp.fr/">Gipsa-lab</a> in Grenoble, France. Since 2020, I am in the <a href="https://www.gipsa-lab.grenoble-inp.fr/pole/pole-geometrie-apprentissage-information-et-algorithmes-gaia">GAIA</a> team at Gipsa-Lab.
