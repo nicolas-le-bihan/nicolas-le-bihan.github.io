@@ -411,6 +411,13 @@ ninja.data = [{
           window.open("mailto:%6E%69%63%6F%6C%61%73.%6C%65-%62%69%68%61%6E@%63%6E%72%73.%66%72", "_blank");
         },
       },{
+        id: 'social-orcid',
+        title: 'ORCID',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://orcid.org/0000-0001-6175-6045", "_blank");
+        },
+      },{
         id: 'social-researchgate',
         title: 'ResearchGate',
         section: 'Socials',
@@ -423,6 +430,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=nlbathome@gmail.com", "_blank");
+        },
+      },{
+        id: 'social-scopus',
+        title: 'Scopus',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.scopus.com/authid/detail.uri?authorId=6507015909", "_blank");
         },
       },{
       id: 'light-theme',
