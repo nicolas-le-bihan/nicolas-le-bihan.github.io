@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-supervision",
+          title: "Supervision",
+          description: "Current and former PhD students and Post-doctoral researchers I have (co-)supervised",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/students/";
+          },
         },{id: "post-a-post-with-image-galleries",
       
         title: "a post with image galleries",
