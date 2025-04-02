@@ -387,16 +387,20 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-our-overview-paper-quaternions-in-signal-and-image-processing-a-comprehensive-and-objective-overview-has-been-published-in-ieee-signal-processing-magazine",
+          title: 'Our overview paper Quaternions in Signal and Image Processing: A comprehensive and objective...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-if-you-are-looking-for-a-master-internship-in-the-field-of-statistical-and-geometrical-signal-processing-for-polarized-gravitational-data-analysis-within-the-anr-project-ricochet-please-make-contact",
+          title: 'If you are looking for a Master internship in the field of statistical...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-philippe-flores-in-joining-anr-project-ricochet-as-a-post-doctoral-researcher-welcome",
+          title: 'Philippe Flores in joining ANR Project RICOCHET as a post-doctoral researcher. Welcome !...',
+          description: "",
+          section: "News",},{id: "news-the-ricochet-project-has-received-label-and-financial-support-from-the-cnrs-through-the-miti-interdisciplinary-program-prime",
+          title: 'The RICOCHET project has received label and financial support from the CNRS through...',
+          description: "",
+          section: "News",},{id: "news-with-julien-flamant-we-gave-a-tutorial-at-the-eusipco-conference-in-lyon-on-monday-the-26th-of-august-2024",
+          title: 'With Julien Flamant, we gave a tutorial at the EUSIPCO Conference in Lyon...',
           description: "",
           section: "News",},{id: "projects-ricochet",
           title: 'RICOCHET',
