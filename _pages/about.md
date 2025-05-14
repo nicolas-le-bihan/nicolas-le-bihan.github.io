@@ -21,6 +21,15 @@ From 2013 to 2015, I was a visiting research fellow at the University of Melbour
 
 My research interests include: bivariate signal processing, statistics on groups and manifolds, polarized time series analysis and their application in gravitational wave astronomy.
 
+<br/>
+
+## open position
+We have a __Ph.D. position available__, with starting date on 01/10/2025, co-supervised by E. Chassande-Mottin (APC, Paris) on "Geometric approach in bivariate signal processing for the analysis of gravitational wave polarization". __For any information, please send me an [email](mailto:nicolas.le-bihan@cnrs.fr)__
+
+Applications should be sent directly through the CNRS [website](https://emploi.cnrs.fr/Offres/Doctorant/UMR5216-CHRROM-034/Default.aspx).
+
+
+
 [//]: Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 [//]: Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
