@@ -23,10 +23,6 @@ My research interests include: bivariate signal processing, statistics on groups
 
 <br/>
 
-## open position
-We have a __Ph.D. position available__, with starting date on 01/10/2025, co-supervised by E. Chassande-Mottin (APC, Paris) on "Geometric approach in bivariate signal processing for the analysis of gravitational wave polarization". __For any information, please send me an [email](mailto:nicolas.le-bihan@cnrs.fr)__
-
-Applications should be sent directly through the CNRS [website](https://emploi.cnrs.fr/Offres/Doctorant/UMR5216-CHRROM-034/Default.aspx).
 
 
 
