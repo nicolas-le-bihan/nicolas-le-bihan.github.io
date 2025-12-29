@@ -14,11 +14,12 @@ nav: true
   - Subject: "*__Une approche géométrique en traitement du signal bivarié pour l'analyse de la polarisation des
 ondes gravitationnelles__*"
   - co-supervisor: Éric Chassande-Mottin (APC, Paris)
-  - 
+   
+___   
 + __Philippe FLORES__ [2024-]
   - Subject: "*__Non-linear and geometrical models for bivariate signal: application to polarized gravitational wave analysis__*"
   - co-supervisors: Pierre-Olivier Amblard (Gipsa-lab, Grenoble) and Olivier Michel (Gipsa-lab, Grenoble)
-
+  - 
 ___
 + __Jalal JOUIDI__ [2023-]
   - Subject: "*__Physical and topological characterization of membranes using vibration analysis__*"
