@@ -10,6 +10,11 @@ nav: true
 
 [//]: Organize your courses by years, topics, or universities, however you like!
 
++ __Grégoire DOAT__ [2025-]
+  - Subject: "*__Une approche géométrique en traitement du signal bivarié pour l'analyse de la polarisation des
+ondes gravitationnelles__*"
+  - co-supervisor: Éric Chassande-Mottin (APC, Paris)
+  - 
 + __Philippe FLORES__ [2024-]
   - Subject: "*__Non-linear and geometrical models for bivariate signal: application to polarized gravitational wave analysis__*"
   - co-supervisors: Pierre-Olivier Amblard (Gipsa-lab, Grenoble) and Olivier Michel (Gipsa-lab, Grenoble)
